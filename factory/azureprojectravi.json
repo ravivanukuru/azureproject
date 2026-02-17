@@ -1,0 +1,9 @@
+{
+	"name": "azureprojectravi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "68e0e3c2-b7d2-4e24-a678-587788ba0ae2",
+		"tenantId": "f0c8ee84-0395-4542-9ac3-511d1405e789"
+	}
+}
