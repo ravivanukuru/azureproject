@@ -1,0 +1,17 @@
+{
+	"name": "AzureSql",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "azureprojectserver11.database.windows.net",
+			"database": "azureprojectdbravi",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "adminravi",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDIyQkMwNDNDLTQ0MjUtNDcwMi05QjA4LTVDN0JGNjgwMURCOF85YTQxMjE0My1hN2E5LTQ1ZWEtYjgxNy00NTBjYjJiZGE4ZWMiDQp9"
+		}
+	}
+}
